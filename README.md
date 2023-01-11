@@ -1,2 +1,2 @@
 # rfarinango_Examen
-Desarrollo de ejercicio propuesta para elaboracion del ExamenParcial sobre aplicacion visualstudio 2022 y Xamarin
+Desarrollo de ejercicio propuesto para elaboración del ExamenParcial sobre aplicación VisualStudio 2022 y Xamarin
